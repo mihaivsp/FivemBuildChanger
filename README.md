@@ -4,6 +4,10 @@
 ![image](https://github.com/user-attachments/assets/534076ec-8ade-419b-b378-2c220f5d78a6)
 
   
+# Important
+
+This app is intended for Windows Systems!
+
 
 # Information
 
